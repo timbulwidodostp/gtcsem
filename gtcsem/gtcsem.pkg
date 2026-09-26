@@ -1,5 +1,6 @@
-D 'pvw': Predictive value weighting for covariate misclassification in logistic regression (pvw) Use pvw With STATA 19
+D 'gtcsem': Conditional standard errors of measurement in Generalizability Theory Use gtcsem With STATA 19
 D
-F pvw.ado
-F pvwcalc.ado
-F pvw.sthlp
+F gtcsem.ado
+F gtcsem.sthlp
+F gtcsem_plot.ado
+F gtcsem_plot.sthlp
